@@ -210,11 +210,7 @@ tasarımı konularında pratik yapabilir.
 
 ## 📄 Lisans
 
-Bu depo eğitim ve öğrenme amacıyla hazırlanmıştır. Projeyi yeniden
-dağıtmayı veya başkalarının katkıda bulunmasını istiyorsanız, kullanım
-koşullarınızı açıkça belirtmek için depoya bir lisans dosyası ekleyin.
-MIT Lisansı seçeneklerden biridir; kullanmadan önce lisans koşullarını
-değerlendirin.
+Bu depo eğitim ve öğrenme amacıyla hazırlanmıştır.
 
 ------------------------------------------------------------------------
 <img width="798" height="1600" alt="image" src="https://github.com/user-attachments/assets/cdbe7f39-92bf-485f-bd21-f42780e74b34" />
