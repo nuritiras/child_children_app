@@ -146,7 +146,7 @@ Aşağıdaki komutta örnek depo adresini kendi GitHub depo adresinizle
 değiştirin:
 
 ``` bash
-git clone https://github.com/KULLANICI-ADINIZ/DEPO-ADI.git
+git clone https://github.com/nuritiras/child_children_app.git
 ```
 
 ### 2. Proje klasörüne geçin
@@ -217,5 +217,6 @@ MIT Lisansı seçeneklerden biridir; kullanmadan önce lisans koşullarını
 değerlendirin.
 
 ------------------------------------------------------------------------
+<img width="798" height="1600" alt="image" src="https://github.com/user-attachments/assets/cdbe7f39-92bf-485f-bd21-f42780e74b34" />
 
 **Flutter ile öğrenin, kodlayın ve güzel değerleri yaşatın!** 🌱
